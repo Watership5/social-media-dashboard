@@ -164,14 +164,9 @@
       <weekDashboard v-for="{ logo, label, views, arrow, percentage, index } in propsTwo" :key="index" :logo="logo" :label="label" :views="views" :arrow="arrow" :percentage="percentage" :text="arrow == up ? 'text-lime-green' : 'text-err'"/>    </div>
   </main>
 </template>
+<!-- setting up the main styles -->
 <style>
   .circle{
     transition: transform 0.1s linear;
-  }
-  .btn{
-    background: linear-gradient(to right, hsl(210, 78%, 56%), hsl(146, 68%, 55%));
-  }
-  .btnD{
-    background: #cdced5;
   }
 </style>
