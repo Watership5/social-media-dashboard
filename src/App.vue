@@ -118,6 +118,7 @@
       index:8
     },
   ]
+  // setting up dark mode and light mode logic
   let state = false
   const onClick = () => {
     console.log("working")
