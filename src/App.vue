@@ -8,6 +8,7 @@
   import up from "./assets/icon-up.svg"
   import youtube from "./assets/icon-youtube.svg"
   import weekDashboard from './components/week-dashboard.vue';
+  // setting up the props for the first component
   const props = [
     {
       logo:facebook,
