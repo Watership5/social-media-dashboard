@@ -1,4 +1,5 @@
 <script setup lang="ts">
+  //importing dependicinces
   import mainDashboard from './components/main-dashboard.vue';
   import down from "./assets/icon-down.svg"
   import facebook from "./assets/icon-facebook.svg"
