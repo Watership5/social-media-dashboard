@@ -51,6 +51,7 @@
       index: 4,
     },
   ]
+  // setting up props for second component
   const propsTwo = [
     {
       logo:facebook,
