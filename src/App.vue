@@ -134,6 +134,7 @@
 </script>
 
 <template>
+  <!-- main html code -->
   <main>
     <section class="mb-[2rem] flex items-center justify-between">
       <div>
